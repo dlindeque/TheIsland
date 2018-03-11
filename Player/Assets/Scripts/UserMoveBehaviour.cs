@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovementBehaviour : MonoBehaviour {
+public class UserMoveBehaviour : MonoBehaviour {
 
     public float walkingSpeed;
     public float turingSpeed;
